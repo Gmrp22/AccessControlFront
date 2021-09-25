@@ -1,0 +1,25 @@
+#nav-color {
+  background-color: #3852a5;
+  width: auto;
+  height: 12vh;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  margin: 2vw;
+  color:#d1f4ff;
+  font-weight: bold;
+  font-size: 1.7vw;
+  font-family: 'Roboto Slab', serif;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}

@@ -1,0 +1,14 @@
+.main {
+    background-color: #fdf5f5;
+    padding: 20px;
+    width: 100%;
+    height: auto;
+  }
+  h1 {
+      align-self: center;
+      margin-left: 40vw;
+      margin-top: 15vh;
+  }
+  .MMcontainer{
+    margin-bottom: 100px;
+  }
